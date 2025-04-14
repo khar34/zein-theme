@@ -1,7 +1,7 @@
 {
 	"name": "Zein (dark)",
 	"colors": {
-		"editor.background": "#282C34",
+		"editor.background": "#1E1E1E",
 		"editor.foreground": "#F8F8F2",
 		"editor.selectionBackground": "#44475A",
 		"editor.lineHighlightBackground": "#2A2A3C",
@@ -10,31 +10,31 @@
 		"editorBracketMatch.background": "#FF79C6",
 		"activityBarBadge.background": "#FF79C6",
 		"sideBarTitle.foreground": "#F8F8F2",
-		"tab.activeBackground": "#282C34",
-		"tab.inactiveBackground": "#21252B",
-		"tab.activeForeground": "#ABB2BF",
-		"tab.inactiveForeground": "#5C6370",
+		"tab.activeBackground": "#252526",
+		"tab.inactiveBackground": "#1E1E1E",
+		"tab.activeForeground": "#D4D4D4",
+		"tab.inactiveForeground": "#A6A6A6",
 		"tab.border": "#1B1B23",
 		"tab.hoverBackground": "#282A36",
 		"tab.unfocusedHoverBackground": "#1B1B23",
-		"activityBar.background": "#282C34",
-		"activityBar.foreground": "#ABB2BF",
+		"activityBar.background": "#1E1E1E",
+		"activityBar.foreground": "#D4D4D4",
 		"activityBar.inactiveForeground": "#6272A4",
-		"sideBar.background": "#282C34",
-		"sideBar.foreground": "#ABB2BF",
+		"sideBar.background": "#1E1E1E",
+		"sideBar.foreground": "#D4D4D4",
 		"sideBarSectionHeader.background": "#282A36",
 		"sideBarSectionHeader.foreground": "#F8F8F2",
-		"statusBar.background": "#21252B",
-		"statusBar.foreground": "#ABB2BF",
+		"statusBar.background": "#1E1E1E",
+		"statusBar.foreground": "#D4D4D4",
 		"statusBar.debuggingBackground": "#FF5555",
 		"statusBar.debuggingForeground": "#F8F8F2",
-		"titleBar.activeBackground": "#21252B",
-		"titleBar.activeForeground": "#ABB2BF",
-		"titleBar.inactiveBackground": "#21252B",
-		"titleBar.inactiveForeground": "#5C6370",
-		"dropdown.background": "#21252B",
-		"dropdown.foreground": "#ABB2BF",
-		"dropdown.border": "#3E4451",
+		"titleBar.activeBackground": "#1E1E1E",
+		"titleBar.activeForeground": "#D4D4D4",
+		"titleBar.inactiveBackground": "#1E1E1E",
+		"titleBar.inactiveForeground": "#A6A6A6",
+		"dropdown.background": "#252526",
+		"dropdown.foreground": "#D4D4D4",
+		"dropdown.border": "#3C3C3C",
 		"dropdown.listBackground": "#1B1B23",
 		"commandCenter.background": "#1B1B23",
 		"commandCenter.foreground": "#F8F8F2",
@@ -43,10 +43,10 @@
 		"input.border": "#282A36",
 		"inputOption.activeBackground": "#44475A",
 		"inputOption.activeForeground": "#F8F8F2",
-		"editorGroupHeader.tabsBackground": "#21252B",
-		"quickInput.background": "#21252B",
-		"quickInput.foreground": "#ABB2BF",
-		"quickInputTitle.background": "#3E4451"
+		"editorGroupHeader.tabsBackground": "#1E1E1E",
+		"quickInput.background": "#252526",
+		"quickInput.foreground": "#D4D4D4",
+		"quickInputTitle.background": "#3C3C3C"
 	},
 	"tokenColors": [
 		{
@@ -423,7 +423,7 @@
 		{
 			"name": "JSON Key - Level 8",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#F1FA8C"
