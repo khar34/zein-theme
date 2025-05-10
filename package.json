@@ -1,7 +1,7 @@
 {
   "name": "zein-theme",
-  "displayName": "zein-theme",
-  "description": "A dark theme for Zein IDE",
+  "displayName": "Zein Theme",
+  "description": "A beautiful dark theme with soothing blue and purple tones for coding comfort",
   "version": "0.0.1",
   "publisher": "khar34",
   "engines": {
@@ -10,6 +10,22 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blue",
+    "purple",
+    "zein"
+  ],
+  "icon": "screenshots/logo.png",
+  "galleryBanner": {
+    "color": "#1A1A24",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/zein-theme"
+  },
   "contributes": {
     "themes": [
       {
