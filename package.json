@@ -2,7 +2,7 @@
   "name": "zein-theme",
   "displayName": "Zein Theme",
   "description": "A beautiful dark theme with soothing blue and purple tones for coding comfort",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "khar34",
   "engines": {
     "vscode": "^1.99.0"
