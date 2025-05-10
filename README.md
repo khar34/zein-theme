@@ -13,28 +13,11 @@ A beautiful dark theme for VS Code with soothing blue and purple tones inspired 
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Zein Theme`
-3. Click **Install** to install it
-4. Click **Reload** to reload your editor
-5. Select the theme: `Code/File → Preferences → Color Theme → Zein (dark)`
+The theme has yet to be uploaded to neither Visual Studio Code marketplace nor Open-vsx.
+You can install it by downloading the .vsix file
 
-## Recommended Settings
-
-For the best experience with Zein theme, we recommend using the following settings:
-
-```json
-{
-    "editor.fontFamily": "Fira Code, monospace",
-    "editor.fontSize": 14,
-    "editor.lineHeight": 1.5,
-    "editor.fontLigatures": true
-}
-```
 
 ### Recommended Fonts
-
-The Zein theme looks great with these programmer fonts:
 
 - [Fira Code](https://github.com/tonsky/FiraCode) (free, supports ligatures)
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) (free, supports ligatures)
@@ -43,6 +26,6 @@ The Zein theme looks great with these programmer fonts:
 
 ## Feedback
 
-If you encounter any issues or have suggestions for improvements, please open an issue on our [GitHub repository](https://github.com/khar34/zein-theme).
+If you encounter any issues or have suggestions for improvements, please open an issue on my [GitHub repository](https://github.com/khar34/zein-theme).
 
 **Enjoy!**
